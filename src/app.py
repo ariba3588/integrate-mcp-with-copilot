@@ -80,6 +80,12 @@ activities = {
         "schedule": "Mondays and Thursdays, 3:30 PM - 4:30 PM",
         "max_participants": 25,
         "participants": []
+    },
+    "GitHub Skills": {
+        "description": "Learn practical coding and collaboration skills through GitHub's official curriculum. Part of the GitHub Certifications program to help with college applications.",
+        "schedule": "Mondays and Thursdays, 3:30 PM - 4:30 PM",
+        "max_participants": 25,
+        "participants": []
     }
 }
 
